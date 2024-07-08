@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="h-24 flex items-center justify-between">
         {/*Left*/}
         <div className="">
-            <Link href="/" className="font-bold text-xl text-blue-600">Social Sphere</Link>
+            <Link href="/" className="font-bold text-xl text-blue-600">SOCIAL Sphere</Link>
         </div>
         {/*Center*/}
         <div className="">
