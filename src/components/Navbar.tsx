@@ -9,7 +9,7 @@ const Navbar = () => {
             <Link href="/" className="font-bold text-xl text-blue-600">Social Sphere</Link>
         </div>
         {/*Center*/}
-        <div className="">
+        <div className="hidden">
         
         </div>
         {/*Right*/}
